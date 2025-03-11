@@ -3,6 +3,11 @@ Analyzed U.S. college data to study institutional control types, degree distribu
 
 Today, I’m excited to share insights from my project titled "Exploring Degrees, Diversity, and Control in U.S. Colleges." This work delves into the composition and diversity of U.S. colleges, aiming to shed light on patterns that are both significant and informative.
 Data Cleaning: Let’s begin with the foundation—our dataset. Initially, we started with 6,807 rows and a staggering 1,986 columns. After meticulous data cleaning, we narrowed it down to a much more manageable 5,513 rows and 12 columns. The cleaning process involved removing all missing and null values as well as filtering out invalid records, ensuring the dataset's reliability for analysis. This step was crucial to maintain the integrity of our results.
+![plot](./Breast_cancer_1.jpg)
+![plot](./Breast%20Cancer%204.jpg)
+![plot](./Breast%20Cancer%205.jpg)
+
+________________________________________
 Question 1: How are institutions distributed based on their control type (public, private nonprofit, private for-profit)?
 •	This question aims to explore the composition of institutions by their administrative control type.
 ________________________________________
