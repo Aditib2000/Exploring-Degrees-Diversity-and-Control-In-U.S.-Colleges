@@ -27,4 +27,4 @@ Final Thoughts: In conclusion, this exploration provides a window into the diver
 Thank you for your attention, and I look forward to any questions you might have!
 
 
-![plot](./Aditib2000/Exploring-Degrees-Diversity-and-Control-In-U.S.-Colleges/breast_cancer 1.jpg)
+![plot](./Aditib2000/Exploring-Degrees-Diversity-and-Control-In-U.S.-Colleges/breast_cancer_1.jpg)
