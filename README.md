@@ -27,4 +27,4 @@ Final Thoughts: In conclusion, this exploration provides a window into the diver
 Thank you for your attention, and I look forward to any questions you might have!
 
 
-![plot](./Breast_cancer_1.jpg)
+![plot](./Breast _cancer_1.jpg)
