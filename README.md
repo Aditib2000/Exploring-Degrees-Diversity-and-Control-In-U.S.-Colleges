@@ -1,4 +1,4 @@
-# Exploring-Degrees-Diversity-and-Control-In-U.S.-Colleges
+# Exploring-Degrees-Diversity-and-Control-In-U.S.-Colleges (Using Tablue)
 Analyzed U.S. college data to study institutional control types, degree distributions, and racial diversity among undergraduate students. Performed extensive data cleaning (reducing columns from 1,986 to 12) and utilized data visualization to uncover trends, providing actionable insights for understanding patterns in higher education.
 
 Today, I’m excited to share insights from my project titled "Exploring Degrees, Diversity, and Control in U.S. Colleges." This work delves into the composition and diversity of U.S. colleges, aiming to shed light on patterns that are both significant and informative.
@@ -32,6 +32,3 @@ Final Thoughts: In conclusion, this exploration provides a window into the diver
 Thank you for your attention, and I look forward to any questions you might have!
 
 
-![plot](./Breast_cancer_1.jpg)
-![plot](./Breast%20Cancer%204.jpg)
-![plot](./Breast%20Cancer%205.jpg)
