@@ -25,3 +25,6 @@ Visualizations and Findings: Visualization was at the heart of this project. By 
 Conclusion: This project underscores the power of data visualization. Complex datasets, when visualized effectively, can illuminate trends and patterns that would otherwise remain hidden. It simplifies decision-making and enriches storytelling, turning raw data into actionable insights.
 Final Thoughts: In conclusion, this exploration provides a window into the diversity and degree distribution across U.S. colleges, highlighting not just numbers but narratives within the education system. It’s a testament to the transformative power of data analytics.
 Thank you for your attention, and I look forward to any questions you might have!
+
+
+![plot](./Aditib2000/Exploring-Degrees-Diversity-and-Control-In-U.S.-Colleges/breastcancer1.jpg)
